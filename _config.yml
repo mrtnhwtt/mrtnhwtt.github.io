@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: '/mrtnhwtt.github.io'
+baseurl: ''
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -42,11 +42,10 @@ social:
   email: martin.hewitt@outlook.fr             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/mrtnhwtt      # change to your twitter homepage
     - https://github.com/mrtnhwtt       # change to your github homepage
+    - https://twitter.com/mrtnhwtt      # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/martin-h-526b201a7/
 
 google_site_verification:               # fill in to your verification string
 
