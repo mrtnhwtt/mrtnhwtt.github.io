@@ -143,7 +143,7 @@ const BubbleSort = async (targetArray, updateArrayMethod, setRunningState, setSt
 
 I now had a nice web-app on which people could launch a Bubble sort and see the column move around on the canvas. Nice!
 
-![V1 of the web-app](algorithm_visualizer/algo_visu_v1.png)
+![V1 of the web-app](assets/img/algorithm_visualizer/algo_visu_v1.png)
 
 ## Working on a V2 with Typescript
 
@@ -165,7 +165,7 @@ Among the improvement, there is:
 
 Here is a look at the newest version:
 
-![V2 of the web-app](algorithm_visualizer/algo_visu_v2.png)
+![V2 of the web-app](assets/img/algorithm_visualizer/algo_visu_v2.png)
 
 There are still some improvements to be made, especially on the color management. I'm not entirely satisfied with how it's working now.
 
