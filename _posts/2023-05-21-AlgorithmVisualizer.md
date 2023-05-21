@@ -50,14 +50,15 @@ That was taken care of by the following code:
 
 ```javascript
 const ArrayBit = ({ index, arrayLength }) => {
-    return (
-        <div
-            style={{
+    let style = {
                 width: 100 ／ arrayLength + "%",
                 height: index ／ arrayLength * 100 + "%",
                 backgroundColor: '#282625',
                 alignSelf: 'end'
-            }}>
+            }
+    return (
+        <div
+            style={style}>
         </div>
     );
 }
@@ -81,7 +82,7 @@ I then only needed to display the columns by iterating over the array:
 
 At that point I was able to display the array nicely on the screen.
 
-## Fighting against React
+### Fighting against React
 
 Well, I must say that choosing React was probably not the smartest decision. I quickly realised that React had a feature that batches updates in state to avoid doing thousands of re-render back to back. Which is exactly what I was doing.
 
