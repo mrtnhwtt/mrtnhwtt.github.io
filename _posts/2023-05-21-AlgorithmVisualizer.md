@@ -1,7 +1,7 @@
 ---
 title: Developping a web-app to visualize sorting algorithms in React and Typescript
 date: 2023-05-21 16:00:00 +0000
-categories: [Personal Projects]
+categories: [Projects]
 tags: [reactjs, algorithm, front-end, typescript]
 ---
 
