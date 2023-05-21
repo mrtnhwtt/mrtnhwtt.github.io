@@ -169,7 +169,7 @@ Here is a look at the newest version:
 
 There are still some improvements to be made, especially on the color management. I'm not entirely satisfied with how it's working now.
 
-Thanks to Vercel, the web-app is available online. you can visit it on [algo.mrtnhwtt.dev](algo.mrtnhwtt.dev)
+Thanks to Vercel, the web-app is available online. you can visit it on [algo.mrtnhwtt.dev](https://algo.mrtnhwtt.dev)
 
 If you have any suggestion or notice any problem in my code, feel free to reach out! It would be greatly appreciated.
 
